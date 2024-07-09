@@ -1,0 +1,14 @@
+{
+  "name": "Team Dynamics and Soft Skills for Developers",
+  "description": "The Missing Developer Education - a course by Tony Alicea",
+  "url": "https://teamdynamics.dev",
+  "baseUrl": "/",
+  "author": {
+    "handle": "@anthonypalicea",
+    "name": "Tony Alicea"
+  },
+  "images": {
+    "twitter": "assets/tonyalicea.png",
+    "og": "assets/tonyalicea.png"
+  }
+}
