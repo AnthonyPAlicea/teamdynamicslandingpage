@@ -26,7 +26,8 @@ export default async (request, context) => {
   // Coupons
   const coupons = [
     { code: 'WPP', type:'I', newPrice: "19<small>.43</small>" },
-    { code: 'PPPREQUEST', type:'I', newPrice: "7<small>.25</small>" }
+    { code: 'PPPREQUEST', type:'I', newPrice: "7<small>.25</small>" },
+    { code: 'REACTIFLUX', type:'I', newPrice: "19<small>.43</small>" }
 ];
 
 let price = "29";
