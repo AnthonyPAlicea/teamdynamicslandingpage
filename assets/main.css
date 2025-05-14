@@ -88,7 +88,7 @@ body > header > nav {
 }
 
 nav .enroll {
-    background-color: var(--pico-color-yellow-50);
+    background-color: var(--pico-color-yellow-100);
     color: #000;
     font-weight: bold;
     border-color: var(--pico-color-blue-150);
